@@ -5,6 +5,7 @@
 	require "header_librarian.php";
 ?>
 
+
 <html>
 	<head>
 		<title>Update balance</title>
